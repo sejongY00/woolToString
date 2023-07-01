@@ -1,0 +1,6 @@
+name: woolToString
+version: 1.0.0
+author: sejongYoo
+description: woolToString 
+
+main: woolToString.Main
